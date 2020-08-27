@@ -1,0 +1,42 @@
+[
+    {
+        "id": "cds",
+        "title": "Convention Data Services",
+        "backgroundImage": "https://stg.xpressleadpro.com/lrsimages/digitalbackpack/images/exhibhall.jpg",
+        "logo": "https://stg.xpressleadpro.com/lrsimages/digitalbackpack/images/showpro.png",
+        "description": "Convention Data Services (CDS), a Freeman Company, is the trusted event registration, business intelligence, and lead management partner servicing top show organizers worldwide.",
+        "active": false
+    },
+    {
+        "id": "showpro",
+        "title": "Show Pro",
+        "backgroundImage": "https://stg.xpressleadpro.com/lrsimages/digitalbackpack/images/showpro.jpg",
+        "logo": "https://stg.xpressleadpro.com/lrsimages/digitalbackpack/images/showpro.png",
+        "description": "Launch and update a full-featured, dynamic registration site in less time than you thought possible with Show Pro—the next generation registration builder.",
+        "active": false
+    },
+    {
+        "id": "datasense",
+        "title": "Data Sense",
+        "backgroundImage": "https://stg.xpressleadpro.com/lrsimages/digitalbackpack/images/datasense.jpg",
+        "logo": "https://stg.xpressleadpro.com/lrsimages/digitalbackpack/images/datasense.gif",
+        "description": "Demystify big data and build a stronger event strategy with the actionable insights of Data Sense. Using Data Sense, our advanced business intelligence tool, data from all your events is integrated into a centralized framework for powerful reporting and in-depth analysis.",
+        "active": false
+    },
+    {
+        "id": "facialrecognition",
+        "title": "Facial Recognition",
+        "backgroundImage": "https://stg.xpressleadpro.com/lrsimages/digitalbackpack/images/facial.jpg",
+        "logo": "https://stg.xpressleadpro.com/lrsimages/digitalbackpack/images/datasense.gif",
+        "description": "Registrants add an image during registration and then speed through the check-in process onsite.",
+        "active": false
+    },
+    {
+        "id": "mobilebadgeprint",
+        "title": "Mobile Badge Print",
+        "backgroundImage": "https://stg.xpressleadpro.com/lrsimages/digitalbackpack/images/mobile.jpg",
+        "logo": "https://stg.xpressleadpro.com/lrsimages/digitalbackpack/images/datasense.gif",
+        "description": "Attendees enter the code on their phone for the nearest print station and their badge is instantly available speeding them into the event.",
+        "active": false
+    }
+]
